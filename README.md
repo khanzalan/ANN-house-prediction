@@ -5,7 +5,6 @@ A deep learning regression project using an **Artificial Neural Network (ANN)** 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-blue?logo=scikit-learn)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
